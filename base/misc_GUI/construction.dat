@@ -24,3 +24,11 @@ Image[5]=construction.1.5
 #6 other (I think unused, was the old windmill).
 Image[6]=construction.1.6
 
+#7 res
+Image[7]=construction.1.7
+
+#8 com
+Image[8]=construction.1.8
+
+#9 ind, based on IND_06_02 from Patrick
+Image[9]=construction.1.9
