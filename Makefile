@@ -130,7 +130,6 @@ copy:
 	@rm -rf $(PAKDIR)
 	@mkdir -p $(PAKDIR)
 	@cp -rp pak128.prototype/*  $(PAKDIR)
-	@cp -p history-pak128-svn.txt $(PAKDIR)/doc
 	@cp -p LICENSE.txt $(PAKDIR)/doc
 
 $(DIRS64): copy
