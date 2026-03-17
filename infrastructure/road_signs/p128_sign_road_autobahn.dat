@@ -9,9 +9,7 @@ name=autobahn_classic_entrance
 copyright=Fabio Gonella
 
 intro_year=1930
-intro_month=1
 retire_year=1980
-retire_month=1
 
 waytype=road
 min_speed=80
@@ -20,7 +18,7 @@ single_way=1
 cost=1500
 maintenance=1500
 
-Image[0-3]=p128_sign_road_autobahn.1.<$0>
+Image[n,e,s,w][0]=p128_sign_road_autobahn.1.<$0>
 cursor=p128_sign_road_autobahn.1.4
 icon=> p128_sign_road_autobahn.1.5
 
@@ -37,11 +35,9 @@ cost=1500
 maintenance=1500
 
 intro_year=1930
-intro_month=1
 retire_year=1980
-retire_month=1
 
-Image[0-3]=p128_sign_road_autobahn.2.<$0>
+Image[n,e,s,w][0]=p128_sign_road_autobahn.2.<$0>
 cursor=p128_sign_road_autobahn.2.4
 icon=> p128_sign_road_autobahn.2.5
 
@@ -58,9 +54,8 @@ cost=2000
 maintenance=2000
 
 intro_year=1980
-intro_month=1
 
-Image[0-3]=p128_sign_road_autobahn.3.<$0>
+Image[n,e,s,w][0]=p128_sign_road_autobahn.3.<$0>
 cursor=p128_sign_road_autobahn.3.4
 icon=> p128_sign_road_autobahn.3.5
 
@@ -77,9 +72,8 @@ cost=2000
 maintenance=2000
 
 intro_year=1980
-intro_month=1
 
-Image[0-3]=p128_sign_road_autobahn.4.<$0>
+Image[n,e,s,w][0]=p128_sign_road_autobahn.4.<$0>
 cursor=p128_sign_road_autobahn.4.4
 icon=> p128_sign_road_autobahn.4.5
 
