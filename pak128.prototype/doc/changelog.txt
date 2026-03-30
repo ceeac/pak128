@@ -1,6 +1,9 @@
 ---------------------------------------------------------------------------------------------------
 Version: 2.11
 Date: 0000-00-00
+  Added:
+    - Added 90/180kph road/rail crossing to allow building crossings across 180 kph tracks (slowest
+      non-freight tracks after 2000)
   Changed:
     - Roadsigns and signals now cost monthly maintenance (1% of build cost at bits_per_month=18)
     - Quadrupled level (and therefore capacity/maintenance) of suspension railway stations
